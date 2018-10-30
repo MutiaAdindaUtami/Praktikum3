@@ -60,7 +60,7 @@ hasilnya:
 14. Lalu, END.
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum3/master/poto%20latihan1.png)
+![Flowchart](https://raw.githubusercontent.com/MutiaAdindaUtami/Praktikum3/master/Flowchart2.png)
 
 **code program lengkap:**
 ```c++
